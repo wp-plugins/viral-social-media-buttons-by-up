@@ -15,19 +15,19 @@ Get more traffic on your site and increase viral interaction by installing the U
 
 With UP, each time users share your content on their favorite social media pages, they get points they can cash in for cool stuff in the UP Store. Users sign up for UP once, then each time they share your content across social networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network viral data on how your users are sharing your content on their social media pages and social networks. 
 
-Users don’t even need to share using your Social Media Buttons for you to get incredibly detailed viral data – they can just copy and paste the link or share on Social Media in any other way.
+Users don’t even need to share using your Social Buttons for you to get incredibly detailed viral data – they can just copy and paste the link or share on Social Media in any other way.
 
 Our points-based sharing incentives give users a clear reason to share your content - helping raise your site’s viral coefficient. UP’s customizable platform and social media icon buttons help you optimize your content, blog posts and pages for more social sharing engagement, and a wider viral reach.
 
-What’s more - by signing up as an UP Partner for free, you can change the placement of your Social Media Buttons, and also get access to demographic data and social sharing behavior to help you get to know your most viral users, and turn your visitors into social media evangelists.
+What’s more - by signing up as an UP Partner for free, you can change the placement of your Social Buttons, and also get access to demographic data and social sharing behavior to help you get to know your most viral users, and turn your visitors into social media evangelists.
 
-You don’t just want people to share your content on social media – you want them to start CONVERSATIONS around your content that their social networks engage in. You also want your site to be PROMOTED to other users who are sharing similar sites on their social networks and social media accounts. Social Media Buttons are a great first step, but unlike other Social Media Button widgets, UP doesn’t stop there.
+You don’t just want people to share your content on social media – you want them to start CONVERSATIONS around your content that their social networks engage in. You also want your site to be PROMOTED to other users who are sharing similar sites on their social networks and social media accounts. Social Media Buttons are a great first step, but unlike other Social Button widgets, UP doesn’t stop there.
 
 Stop begging users to share your content on social media and giving them nothing in return. Use UP – and give them a reason to share!
 
 100% responsive, works on all browsers and devices, cloud-based, lightening-fast, will never slow your site down. It’s our job to help you grow your viral reach through incentivized Social Media sharing!
 
-= Custom Social Media Buttons Placement =
+= Custom Social Buttons Placement =
 
 *   Responsive and customizable
 *   Vertical and horizontal social media icons
