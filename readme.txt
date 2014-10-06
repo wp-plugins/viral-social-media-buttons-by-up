@@ -73,9 +73,9 @@ Stop begging users to share your content on social media and giving them nothing
 *   Incredibly-detailed documentation and tutorials
 
 == Installation ==
-<p>Got installation questions? If the steps below don’t help – <a href="https://wordpress.org/support/plugin/viral-sharing-buttons-by-up">let us know</a>.</p>
+<p>Got installation questions? If the steps below don’t help – <a href="https://www.upshare.co/contact">let us know</a>.</p>
 
-<h4>Automatic installation through WordPress:</h4>
+<h4>Automatic installation of UP Viral Social Media Buttons through WordPress:</h4>
 
 <ol>
 <li>Go to the “Add New Plugins” screen in your WordPress admin area</li>
@@ -87,14 +87,14 @@ Stop begging users to share your content on social media and giving them nothing
 <li>Tweak your settings to your liking – and enjoy!</li>
 </ol>
 
-<h4>Manual installation via FTP:</h4>
+<h4>Manual installation of the Social Media Buttons Wordpress Plugin via FTP</h4>
 
 <ol>
 <li>Upload the upshare folder to the `/wp-content/plugins/` directory</li>
 <li>Follow steps 4-7 above.</li>
 </ol>
 
-<h4>To upload the plugin through WordPress, instead of FTP:</h4>
+<h4>To upload the Social Media Buttons plugin through WordPress, instead of FTP:</h4>
 
 <ol>
 <li>Upload the downloaded zip file on the Add New plugins screen (see the Upload tab) in your WordPress admin area.</li>
@@ -117,10 +117,10 @@ Stop begging users to share your content on social media and giving them nothing
 
 == Screenshots ==
  
-1. Get more traffic on your site and increase viral interaction by installing the UP Sharing Buttons widget! Unlike your normal, everyday share buttons, UP’s proprietary technology has been designed to help make your site more viral. 
-2. With UP, each time users share your content on their favorite social networks, they get points they can cash in for cool stuff in the UP Store. Users sign up for UP once, then each time they share your content across networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network viral data on how your users are sharing your content on their social networks.
-3. What’s more - by signing up as an <a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_Blank">UP Partner</a> for free, you get access to demographic data and sharing behavior to help you get to know your most viral users, and turn your visitors into evangelists.
-4. You don’t just want people to share your content – you want them to start conversations around your content that their networks engage in.  Stop begging users to share your content and giving them nothing in return. Use UP – and give them a reason to share!
+1. Get more traffic on your site and increase viral interaction by installing the Viral Social Media Buttons widget from UP! Unlike your normal, everyday Social Media Buttons, UP’s proprietary technology has been designed to help make your site more viral.  
+2. With UP, each time users share your content on their favorite social networks and social media pages, they get points they can cash in for cool stuff in the UP Store. Users sign up for UP once, then each time they share your content across social media sites like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network social and viral data on how your users are sharing your content on their social media pages.
+3. What’s more - by signing up as an <a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_Blank">UP Partner</a> for free, you get access to social media demographic data and sharing behavior to help you get to know your most viral users, and turn your visitors into evangelists.
+4. You don’t just want people to share your content – you want them to start CONVERSATIONS around your content that their social networks engage in. Stop begging users to share your content and giving them nothing in return. Use Viral Social Media Buttons by UP – and give them a reason to share on Social Media!
 
 == Changelog ==
 
