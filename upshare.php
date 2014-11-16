@@ -3,11 +3,11 @@
  * @package UP Share
  */
 /*
-Plugin Name: Viral Sharing Buttons by UP
-Version: 1.0.3
+Plugin Name: Viral Social Media Buttons by UP
+Version: 1.0.1
 Author: UP
 Author URI: http://www.upshare.co
-Description: The Viral Sharing Buttons from UP change the way sites go viral. Users share content from your site and earn points they can cash in for cool stuff.
+Description: The Viral Social Media Buttons from UP change the way sites go viral. Users share content from your site and earn points they can cash in for cool stuff.
 License: GPLv2 or later
 */
 
