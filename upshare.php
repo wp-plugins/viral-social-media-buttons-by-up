@@ -216,7 +216,7 @@ class UP_ViralSharingSocial
 		}
 		else
 		{
-			echo '<script src="//widget.upshare.co/up-load.js" id="UPWidget"></script>';
+			echo '<script src="//widget.upshare.co/up-load.js?mode=right" id="UPWidget"></script>';
 		}
 	}
 	public function filter_the_content($content)
