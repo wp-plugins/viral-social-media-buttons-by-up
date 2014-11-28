@@ -57,7 +57,4 @@ var player = jQuery('#updemo');
 });
 
 
-});
-
-
 
