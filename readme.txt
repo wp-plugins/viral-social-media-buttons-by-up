@@ -12,6 +12,7 @@ The Viral Social Buttons from UP change the way sites go viral. Users share cont
 == Description ==
 [vimeo http://vimeo.com/105724953]
 
+= Viral Social Media Buttons = 
 Get more traffic on your site and increase viral interaction by installing the UP Viral Social Media Buttons widget! Unlike your normal, everyday Social Media Buttons, UP’s proprietary technology has been designed to help make your site more viral. 
 
 With UP, each time users share your content on their favorite social media pages, they get points they can cash in for cool stuff in the UP Store. Users sign up for UP once, then each time they share your content across social networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network viral data on how your users are sharing your content on their social media pages and social networks. 
@@ -27,6 +28,8 @@ You don’t just want people to share your content on social media – you want 
 Stop begging users to share your content on social media and giving them nothing in return. Use UP – and give them a reason to share!
 
 100% responsive, works on all browsers and devices, cloud-based, lightening-fast, will never slow your site down. It’s our job to help you grow your viral reach through incentivized Social Media sharing!
+
+DOWNLOAD VIRAL SOCIAL MEDIA BUTTONS BY UP (https://downloads.wordpress.org/plugin/viral-sharing-buttons-by-up.zip)
 
 = Custom Social Buttons Placement =
 
@@ -68,7 +71,7 @@ Stop begging users to share your content on social media and giving them nothing
 
 = 100% Free and Always Will Be =
 
-*   Just install the SOcial Media Buttons and [sign up as a partner](https://www.upshare.co/partners/sign_up?origin=wp) for free in 30 seconds or less
+*   Just install the UP widget for free in 30 seconds or less
 *   Users see the UP icon and automatically know they get points for sharing
 *   Industry-leading partner support (we actually listen to your feedback)
 *   Incredibly-detailed documentation and tutorials
@@ -84,8 +87,7 @@ Stop begging users to share your content on social media and giving them nothing
 <li>Click Install Now</li>
 <li>Activate the plugin/li>
 <li>Open the Plugin Settings page</li>
-<li>Enter your Partner ID (get it for free in 30 seconds by <a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_Blank">clicking here</a>).</li>
-<li>Tweak your settings to your liking – and enjoy!</li>
+<li>Click the Create Partner account link – and enjoy!</li>
 </ol>
 
 <h4>Manual installation of the Social Media Buttons Wordpress Plugin via FTP</h4>
