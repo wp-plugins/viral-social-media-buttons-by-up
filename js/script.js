@@ -31,7 +31,7 @@ var player = jQuery('#updemo');
         post('setVolume', "0.5");
         jQuery(this).hide();
         
-        ga('send', 'event', 'Widget Settings', 'Play Sound Click', 'WP Sharing Button Widget V3')
+        ga('send', 'event', 'Widget Settings', 'Play Sound Click', 'WP Social Media Button Widget V3')
     });
 
 
