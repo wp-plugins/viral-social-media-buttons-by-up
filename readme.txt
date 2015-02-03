@@ -134,4 +134,4 @@ Stop begging users to share your content on social media and giving them nothing
 * Added 10 new placement modes to UPShare widget.
 
 == Upgrade Notice ==
-There is no need to upgrade just yet.
+There is no need to upgrade just yet. 
