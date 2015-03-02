@@ -277,5 +277,5 @@
 	<?php
 	}
 	?>
-	
+
 	<!-- HTML GOES HERE -->
