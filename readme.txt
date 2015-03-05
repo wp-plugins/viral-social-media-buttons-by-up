@@ -10,7 +10,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 The Viral Social Media Buttons from UP change the way sites go viral. With our responsive, cloud-based, fully customizable viral buttons, you can automatically drive more traffic to your site for free.
 
 == Description ==
-[vimeo http://vimeo.com/105724953]
 
 = Viral Social Media Buttons = 
 Get more traffic on your site and increase viral interaction by installing the UP Viral Social Media Buttons widget! Unlike your normal, everyday Social Media Buttons, UP’s proprietary technology has been designed to help make your site more viral. 
