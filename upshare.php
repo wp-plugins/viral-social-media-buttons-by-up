@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: Viral Social Media Buttons by UP
-Version: 1.0.3
+Version: 1.0.4
 Author: UP
 Author URI: http://www.upshare.co
 Description: The Viral Social Media Buttons from UP change the way sites go viral. With our responsive, cloud-based, fully customizable viral buttons, you can automatically drive more traffic to your site for free.
@@ -75,10 +75,11 @@ class UP_ViralSharingSocial
 		{
 			if($upshare_notice == "")
 			{
-				echo '<div class="updated" id="upshare_notice">'.
-						'<p><strong>Note</strong> - To customize the look, feel and behavior of your new viral buttons you need to create a free <a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank">UP Account</a>.<br/>'.
-						'<a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank">Sign up here </a>  |  '.
-						'<a href="" id="closeNotice" onclick="return removeNotice();">Ignore this notice</a>'.
+				echo '<div class="updated" id="upshare_notice" style="max-width:1150px;">'.
+						'<a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank" style="outline:none"><img src="'.plugins_url( 'viral-sharing-buttons-by-up/images/logo-notice.png' ).'"/></a>'.
+						'<p style="line-height:30px;"><strong>Increase sharing and viral growth, and look good doing it</strong> - customize your viral buttons on your <a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank">UP Partner Dashboard</a>.'.
+						' Alter size, shape and style, add animations, change the networks shown, remove the UP branding, and more - <a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank"><img style="margin-bottom:-10px;" src="'.plugins_url( 'viral-sharing-buttons-by-up/images/btn-clickhere.png' ).'"/></a> to link your plugin with your Free UP Partner account in 60 seconds. '.
+						'<a href="" id="closeNotice" onclick="return removeNotice();" style="float:right">Ignore this notice</a>'.
 						'</p></div>';
 			}
 		}
