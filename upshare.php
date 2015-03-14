@@ -76,9 +76,9 @@ class UP_ViralSharingSocial
 			if($upshare_notice == "")
 			{
 				echo '<div class="updated" id="upshare_notice" style="max-width:1150px;">'.
-						'<a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank" style="outline:none"><img src="'.plugins_url( 'viral-sharing-buttons-by-up/images/logo-notice.png' ).'"/></a>'.
+						'<a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank" style="outline:none"><img src="'.plugins_url( 'viral-social-media-buttons-by-up/images/logo-notice.png' ).'"/></a>'.
 						'<p style="line-height:30px;"><strong>Increase sharing and viral growth, and look good doing it</strong> - customize your viral buttons on your <a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank">UP Partner Dashboard</a>.'.
-						' Alter size, shape and style, add animations, change the networks shown, remove the UP branding, and more - <a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank"><img style="margin-bottom:-10px;" src="'.plugins_url( 'viral-sharing-buttons-by-up/images/btn-clickhere.png' ).'"/></a> to link your plugin with your Free UP Partner account in 60 seconds. '.
+						' Alter size, shape and style, add animations, change the networks shown, remove the UP branding, and more - <a href="https://www.upshare.co/partners/wp/sign_up/" target="_blank"><img style="margin-bottom:-10px;" src="'.plugins_url( 'viral-social-media-buttons-by-up/images/btn-clickhere.png' ).'"/></a> to link your plugin with your Free UP Partner account in 60 seconds. '.
 						'<a href="" id="closeNotice" onclick="return removeNotice();" style="float:right">Ignore this notice</a>'.
 						'</p></div>';
 			}
