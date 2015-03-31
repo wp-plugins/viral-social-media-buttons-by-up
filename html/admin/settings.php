@@ -75,7 +75,7 @@
 				<div class="logo"><img src="<?php echo $this->_plugin_url . '/images/logo.png'; ?>">for Wordpress
 				</div>
 				<div class="text-right pull-right">
-					Need an account?<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v4#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 1', 'WP Social Media Buttons Widget V4')"><b> Sign Up for Free</b></a>
+					<a href="http://www.upshare.co/partners/sign_in" target="_blank">Sign In</a>
 				</div>
 				<div class="border-image"><img src="<?php echo $this->_plugin_url . '/images/border-img.png'; ?>">
 				</div>
@@ -85,14 +85,30 @@
 		<section id="syncfree">
 			<div id="upwrapper">
 				<div class="widget-main-content">
-					<h1>Simple, Powerful Tools to Boost Sharing and Make Your Site More Viral</h1>
+					<h1>Set Up and Customize Your <br>
+Viral Buttons in 2 Easy Steps</h1>
 					<p>
-						<a href="http://www.upshare.co/partners/sign_up?origin=wp&source=v4#signupForm" target="_blank" onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 2', 'WP Social Media Buttons Widget V4') ">Create a free account</a> and link your plugin in 60 seconds, no tech wizardry required.
+						Start Getting More Shares in 30 Seconds - 100% Free.					
 					</p>
 					
-					<div class="text-center" style="padding-top:40px;clear:both">
-				<a class="large-button" href="http://www.upshare.co/partners/sign_up?origin=wp&source=v4#signupForm" target="_blank"  onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 3', 'WP Social Media Buttons Widget V4')">Customize My Buttons</a>
-				</div>
+
+				  <div class="row upshare-upblog" style="padding-top:30px;">
+    <div class="col-md-6">
+      
+      <img src="<?php echo $this->_plugin_url . '/images/step1.jpg' ?>" class= 'img-responsive' />
+    
+      <h3>Click the Green Arrow</h3>
+      <p>This helps our system see that UP is installed correctly on your URL</p>
+    </div>
+    <div class="col-md-6">
+    
+      <img src="<?php echo $this->_plugin_url . '/images/step2.jpg'?>" class= 'img-responsive' />
+    
+      <h3>Create Your Free Account</h3>
+      <p>You can log in and activate new customizations on any of your websites.</p>
+    </div>
+  </div>
+				
 				
 				
 				         <div class="row seen-in">
@@ -237,25 +253,38 @@
   <div class="row">
     <div class="col-md-9 col-md-offset-2">
   				<div class="widget-main-content">
-					<h1>Make Your Site More Viral in 60 Seconds</h1>
+					<h1>Make Your Site More Viral in 30 Seconds</h1>
 					<p>
 						Start Customizing Your Viral Buttons for Free, No Tech Wizardry Required
 					</p>
-					
-					<div class="text-center" style="padding-top:40px;clear:both">
-				<a class="large-button" href="http://www.upshare.co/partners/sign_up?origin=wp&source=v4#signupForm" target="_blank"  onClick="ga('send', 'event', 'Widget Settings', 'Signup Click 4', 'WP Social Media Buttons Widget V4')">Customize My Buttons</a>
-				</div>
-				
+			
 					
 				</div>
 				 </div>
   </div>
   
+  				  <div class="row upshare-upblog" style="padding-top:0px;">
+    <div class="col-md-6">
+      
+      <img src="<?php echo $this->_plugin_url . '/images/step1.jpg' ?>" class= 'img-responsive' />
+    
+      <h3>Click the Green Arrow</h3>
+      <p>This helps our system see that UP is installed correctly on your URL</p>
+    </div>
+    <div class="col-md-6">
+    
+      <img src="<?php echo $this->_plugin_url . '/images/step2.jpg'?>" class= 'img-responsive' />
+    
+      <h3>Create Your Free Account</h3>
+      <p>You can log in and activate new customizations on any of your websites.</p>
+    </div>
+  </div>
   
 </div>
 
 	
 	</div>
+
 	<script>
 		(function(i, s, o, g, r, a, m) {
 			i['GoogleAnalyticsObject'] = r;
@@ -270,7 +299,7 @@
 		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 	
 		ga('create', 'UA-47573483-1', 'auto');
-		ga('send', 'event', 'Widget Settings', 'Page View', 'WP Social Media Buttons Widget V4')
+		ga('send', 'event', 'Widget Settings', 'Page View', 'WP Social Media Buttons Widget V5')
 		
 		
 	</script>
