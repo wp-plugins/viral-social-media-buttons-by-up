@@ -38,7 +38,7 @@ Stop begging users to share your content on social media and giving them nothing
 *   Easily controlled from your UP dashboard
 *   One-click install, or easy-to-implement shortcode
 *   Never impedes your content
-*   [Click here for a live demo](http://blog.upshare.co/sharing-buttons-demo/)
+*   [Click here for a live demo](http://www.upshare.co/partners/sign_up?refer=wordpress)
 
 = Lightening Fast =
 
@@ -84,30 +84,29 @@ Stop begging users to share your content on social media and giving them nothing
 <li>Go to the “Add New Plugins” screen in your WordPress admin area</li>
 <li>Search for “Viral Social Media Buttons by UP”</li>
 <li>Click Install Now</li>
-<li>Activate the plugin/li>
-<li>Open the Plugin Settings page</li>
-<li>Click the Create Partner account link – and enjoy!</li>
+<li>Activate the plugin</li>
+<li>Browse to your site's homepage</li>
+<li>click on the green UP Arrow in the top right</li>
 </ol>
 
 <h4>Manual installation of the Social Media Buttons Wordpress Plugin via FTP</h4>
 
 <ol>
 <li>Upload the upshare folder to the `/wp-content/plugins/` directory</li>
-<li>Follow steps 4-7 above.</li>
+<li>Follow steps 4-6 above.</li>
 </ol>
 
 <h4>To upload the Social Media Buttons plugin through WordPress, instead of FTP:</h4>
 
 <ol>
 <li>Upload the downloaded zip file on the Add New plugins screen (see the Upload tab) in your WordPress admin area.</li>
-<li>Follow steps 4-7 above.</li>
+<li>Follow steps 4-6 above.</li>
 </ol>
 
 <h4>Skip the plugin and install the JavaScript snippet directly into your HTML:</h4>
 
 <ol>
-<li>Navigate to <a href="https://www.upshare.co/partners" target="_Blank">www.upshare.co/partners</a>.</li>
-<li>Fill out the short form to create your free partner account</li>
+<li>Navigate to <a href="http://www.upshare.co/partners/setup" target="_Blank">http://www.upshare.co/partners/setup</a>.</li>
 <li>Grab your JavaScript snippet from the following page</li>
 <li>Navigate to the Editor screen in your WordPress admin panel/li>
 <li>Pull up the Header file from the list on the right</li>
