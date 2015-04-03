@@ -30,7 +30,9 @@ Stop begging users to start Sharing your content and giving them nothing in retu
 
 100% responsive, works on all browsers and devices, cloud-based, lightening-fast, will never slow your site down. It’s our job to help you grow your viral reach through incentivized social media sharing!
 
->> Click here to download plugin](https://downloads.wordpress.org/plugin/viral-social-media-buttons-by-up.zip)
+[>> CLICK HERE for a live demo](http://www.upshare.co/partners/sign_up?refer=wordpress.com)
+
+[>> CLICK HERE to download plugin](https://downloads.wordpress.org/plugin/viral-social-sharing-icons-by-up.zip)
 
 = Custom Social Buttons Placement =
 
