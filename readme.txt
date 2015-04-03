@@ -16,7 +16,7 @@ Get more shares on your content and increase your site’s viral growth by insta
 
 [>> CLICK HERE for a live demo](http://www.upshare.co/partners/sign_up?refer=wordpress.com)
 
-[>> CLICK HERE to download plugin](https://downloads.wordpress.org/plugin/viral-social-sharing-icons-by-up.zip)
+[>> CLICK HERE to download plugin](https://downloads.wordpress.org/plugin/viral-social-media-buttons-by-up.zip)
 
 With UP Social Media Buttons, as users start sharing your content on their favorite Social Networks, you can track their sharing behavior and get viral growth data, and (coming soon) users can get points they can cash in for cool stuff in the UP Store. Users sign up for UP once by expanding the UP icon, then each time they’re Sharing your content across Social Networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network Social data on how your users are Sharing your content on their social networks.
 
@@ -36,7 +36,7 @@ Stop begging users to start Sharing your content and giving them nothing in retu
 
 [>> CLICK HERE for a live demo](http://www.upshare.co/partners/sign_up?refer=wordpress.com)
 
-[>> CLICK HERE to download plugin](https://downloads.wordpress.org/plugin/viral-social-sharing-icons-by-up.zip)
+[>> CLICK HERE to download plugin](https://downloads.wordpress.org/plugin/viral-social-media-buttons-by-up.zip)
 
 = Custom Social Buttons Placement =
 
