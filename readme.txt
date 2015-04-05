@@ -142,4 +142,3 @@ Stop begging users to start Sharing your content and giving them nothing in retu
 
 == Upgrade Notice ==
 There is no need to upgrade just yet. 
-
