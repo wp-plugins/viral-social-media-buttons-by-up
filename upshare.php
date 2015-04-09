@@ -50,7 +50,7 @@ class UP_ViralSharingSocial
 		}
 		else
 		{
-			add_action('wp_head' , array($this, 'addScriptCodeToHead'));
+			//add_action('wp_head' , array($this, 'addScriptCodeToHead'));
 		}
 	}
 	public function addFilters()
