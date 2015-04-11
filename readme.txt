@@ -42,7 +42,6 @@ Stop begging users to start Sharing your content and giving them nothing in retu
 *   Easily controlled from your UP dashboard
 *   One-click install, or easy-to-implement shortcode
 *   Never impedes your content
-*   [Click here for a live demo](http://www.upshare.co/partners/sign_up?refer=wordpress)
 
 = Lightening Fast =
 
