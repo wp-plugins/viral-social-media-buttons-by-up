@@ -6,8 +6,8 @@
 Plugin Name: Viral Social Media Buttons by UP
 Version: 1.0.4
 Author: UP
-Author URI: http://www.upshare.co
-Description: The Viral Social Media Buttons from UP change the way sites go viral. With our responsive, cloud-based, fully customizable viral buttons, you can automatically drive more traffic to your site for free.
+Author URI: https://www.upshare.co/partners/sign_up
+Description: Simple, powerful social media buttons to boost sharing and make your site more viral.
 License: GPLv2 or later
 */
 

@@ -7,7 +7,7 @@ Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Simple, powerful tools to boost sharing and make your site more viral.
+Simple, powerful social media buttons to boost sharing and make your site more viral.
 
 == Description ==
 
