@@ -12,7 +12,7 @@ Simple, powerful social media buttons to boost sharing and make your site more v
 == Description ==
 
 = Viral Social Media Buttons = 
-Get more shares on your content and increase your site’s viral growth by installing the UP Viral Social Media Buttons plugin! Unlike your normal, everyday social media buttons, UP’s responsive, cloud-based sharing buttons have been specifically designed to help boost viral growth without slowing down load time. 
+Get more shares on your awesome content and increase your site’s viral growth by installing the UP Viral Social Media Buttons plugin! Unlike your normal, everyday social media buttons, UP’s responsive, cloud-based sharing buttons have been specifically designed to help boost viral growth without slowing down load time. 
 
 [>> CLICK HERE to download plugin](https://downloads.wordpress.org/plugin/viral-social-media-buttons-by-up.zip)
 
