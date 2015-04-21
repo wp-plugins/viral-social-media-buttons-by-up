@@ -3,7 +3,7 @@ Contributors: upshare
 Tags: button, Facebook, google, linkedin, plugin, share, sharing, sidebar, social, social media, twitter, widget
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -137,6 +137,8 @@ Stop begging users to start Sharing your content and giving them nothing in retu
 * Added lots of new viral buttons customizations including size, animation, hover effects and more 
 = 1.0.4 = 
 * Added new Shape and Style customizations options.
+= 1.0.5 = 
+* Improved stability of plugin code.
 
 
 == Upgrade Notice ==
