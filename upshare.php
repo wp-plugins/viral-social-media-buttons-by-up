@@ -213,7 +213,7 @@ class UP_ViralSharingSocial
 		//$partner_id = (isset($json->partner_id) && (int)$json->partner_id > 0) ? $json->partner_id : null;
 						
 		//used Wordpress functions to call JS
-		wp_register_script( 'UPWidget', "//widget.upshare.co/up-load.js");
+		wp_register_script( 'UPWidget', "//widget.upshare.co/up-load.js?mode=2");
 		wp_enqueue_script( 'UPWidget' );
 	    echo '<input class="up" type="hidden" name="cms" value="wp">';
         echo '<input class="up" type="hidden" name="signupArrow" value="true">';
