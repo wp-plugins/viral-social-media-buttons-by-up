@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: Viral Social Media Buttons by UP
-Version: 1.0.5
+Version: 1.0.6
 Author: UP
 Author URI: https://www.upshare.co/partners/sign_up
 Description: Simple, powerful social media buttons to boost sharing and make your site more viral.
@@ -250,12 +250,12 @@ function load_bootstrap($hook) {
     }
         //Latest compiled and minified CSS 
 	    //Used Wordpress functions to call bootstrap CSS
-        wp_register_style( 'bootstrapcss', $this->_plugin_url . '/css/bootstrap.min.css');
+        wp_register_style( 'bootstrapcss', plugin_dir_url(__FILE__) . '/css/bootstrap.min.css');
 		wp_enqueue_style( 'bootstrapcss' );
 		
 		//Latest compiled and minified JavaScript
 	    //Used Wordpress functions to call bootstrap JS
-	    wp_register_script( 'bootstrapjs', $this->_plugin_url . '/js/bootstrap.min.js');
+	    wp_register_script( 'bootstrapjs', plugin_dir_url(__FILE__) . '/js/bootstrap.min.js');
         wp_enqueue_script( 'bootstrapjs' ); 
        } 
 	   add_action( 'admin_enqueue_scripts', 'load_bootstrap' );
