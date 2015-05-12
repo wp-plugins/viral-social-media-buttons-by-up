@@ -3,7 +3,7 @@ Contributors: upshare
 Tags: button, Facebook, google, linkedin, plugin, share, sharing, sidebar, social, social media, twitter, widget
 Requires at least: 3.0
 Tested up to: 4.1
-Stable tag: 1.0.6
+Stable tag: 1.0.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -141,6 +141,8 @@ Stop begging users to start Sharing your content and giving them nothing in retu
 * Improved stability of plugin code.
 = 1.0.6 = 
 * Fixed fatal error on plugin settings page.
+= 1.0.7 = 
+* Added new Rewards widget.  Webmasters can now offer incentives to encourage users to share their content.
 
 
 == Upgrade Notice ==
