@@ -3,7 +3,7 @@ Contributors: upshare
 Tags: button, Facebook, google, linkedin, plugin, share, sharing, sidebar, social, social media, twitter, widget
 Requires at least: 3.0
 Tested up to: 4.2.2
-Stable tag: 1.0.7
+Stable tag: 1.0.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -143,7 +143,8 @@ Stop begging users to start Sharing your content and giving them nothing in retu
 * Fixed fatal error on plugin settings page.
 = 1.0.7 = 
 * Added new Rewards widget.  Webmasters can now offer incentives to encourage users to share their content.
-
+= 1.0.8 = 
+* Removed green arrow UP Branding by default from all widgets.
 
 == Upgrade Notice ==
 There is no need to upgrade just yet. 
