@@ -7,7 +7,7 @@ Stable tag: 1.0.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Simple, powerful social media buttons to boost sharing and make your site more viral.
+Boost sharing and make your site more viral with powerful tools and rewards.
 
 == Description ==
 
@@ -120,9 +120,9 @@ Stop begging users to share your site on social media and giving them nothing in
 </ol>
 
 == Screenshots ==
-1. With UP Viral Sharing Buttons, as users start Sharing your content on their favorite Social Networks, you can track their sharing behavior and get viral growth data, and (coming soon) users can get points they can cash in for cool stuff in the UP Store. Users sign up for UP once by expanding the UP icon, then each time they’re Sharing your content across Social Networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network Social data on how your users are Sharing your content on their social networks.
-2. Get more shares on your content and increase your site’s viral growth by installing the UP Viral Sharing Buttons plugin! Unlike your normal, everyday Sharing Buttons, UP’s responsive, cloud-based sharing buttons have been specifically designed to help boost viral growth without slowing down load time.  
-3. You don’t just want people Sharing your content – you want them to start CONVERSATIONS around your content that their networks engage in and start Sharing. Stop begging users to start Sharing your content and giving them nothing in return. Use Viral Sharing Buttons by UP, track viral growth, run tests, measure improvement, and give people a reason to share!
+1. 
+2.
+3. 
 
 == Changelog ==
 = 1.0.1 = 
