@@ -12,29 +12,29 @@ Simple, powerful social media buttons to boost sharing and make your site more v
 == Description ==
 
 = Viral Social Media Buttons = 
-Get more shares on your awesome content and increase your site’s viral growth by installing the UP Viral Social Media Buttons plugin! Unlike your normal, everyday social media buttons, UP’s responsive, cloud-based sharing buttons have been specifically designed to help boost viral growth without slowing down load time. 
+Get more traffic on your site and increase viral interaction by installing the UP Viral Social Media Buttons widget! Unlike your normal, everyday Social Media Buttons, UP’s responsive, cloud-based social media tools have been specifically designed to help boost your social sharing counts without slowing down load time. 
+
+Also - UP is more than just social media buttons. We're the only social media plugin on the planet that allows you to create a reward that your users can unlock by sharing your site, meaning your users now have another, more clear REASON to share your site on social media.  
 
 [>> CLICK HERE to download plugin](https://downloads.wordpress.org/plugin/viral-social-media-buttons-by-up.zip)
 
-With UP Social Media Buttons, as users start sharing your content on their favorite Social Networks, you can track their sharing behavior and get viral growth data, and (coming soon) users can get points they can cash in for cool stuff in the UP Store. Users sign up for UP once by expanding the UP icon, then each time they’re Sharing your content across Social Networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network Social data on how your users are Sharing your content on their social networks.
-
-You can also turn OFF the UP icon if you simply want simple, cloud-based, responsive sharing buttons that work on the web and mobile WITHOUT sharing incentives.
-
-However, if you keep the up icon ON, users don’t even need to share using your Social Media Buttons for you to get incredibly detailed viral data – they can just copy and paste the link or share in any other way, and we’ll be able to track what they share automatically.
-
-UP’s customizable platform and Viral Social Media Buttons help you optimize your content, blog posts and pages for more social sharing engagement, and a wider viral reach.
-
-What’s more - by signing up as an UP Partner for free after installing UP Viral Social Media Buttons, you can control the placement of your Social Buttons on your UP Partner Dashboard, you get access to Sharing demographic data and Sharing behavior to help you get to know your most viral users, and turn your visitors into evangelists.
-
-You don’t just want people Sharing your content – you want them to start CONVERSATIONS around your content that their networks engage in and start Sharing. You also want your site to be PROMOTED to other users who are sharing similar sites on their social networks and social media accounts. Viral Social Media buttons are a great first step, but unlike other Sharing Button widgets, UP doesn’t stop there.
-
-Stop begging users to start Sharing your content and giving them nothing in return. Use Viral Social Media Buttons by UP, track viral growth, run tests, measure improvement, and give people a reason to share!
-
-100% responsive, works on all browsers and devices, cloud-based, lightening-fast, will never slow your site down. It’s our job to help you grow your viral reach through incentivized social media sharing!
+With UP Viral Social Media Buttons and Rewards, as users share your site on their favorite social networks, they can instantly unlock a promo code you create for your products/services. 
+ 
+Don’t have anything to sell? No problem – choose a reward from our store for free, and give your users a reward from any of our awesome rewards partners just for sharing your site on social media, or turn rewards off entirely. It’s totally up to you!  
+ 
+UP’s customizable platform and Viral Social Media Buttons plugin help you optimize your content, blog posts and pages for more social engagement and a wider viral reach, and will give users a reason (i.e. a reward) becoming a fan or follower – building your audience and social influence much quicker.  
+ 
+What’s more - by signing up as an UP user for free after installing our social media buttons, you can access DOZENS of customization options to control the placement, size, style, animation and hover states of your social media sharing buttons on your UP Partner Dashboard. 
+  
+You don’t just want people to share you on social media – you want them to start CONVERSATIONS around your content that their networks engage in and start sharing. You also want your site to be PROMOTED to other users who are sharing similar sites on their social networks and social media accounts. UP gets you new shares, new fans and followers, more customers and more sales – all in one simple, easy to install plugin.  
+ 
+Stop begging users to share your site on social media and giving them nothing in return. Use the viral social media buttons by UP, and give people a reason to share!  
+ 
+100% responsive, works on all browsers and devices, cloud-based, lightening-fast, will never slow your site down. It’s our job to help you expand, get more traffic grow your audience through incentivized social media sharing and rewards.  
 
 [>> CLICK HERE to download plugin](https://downloads.wordpress.org/plugin/viral-social-media-buttons-by-up.zip)
 
-= Custom Social Buttons Placement =
+= Custom Social Media Buttons Placement =
 
 *   Responsive and customizable
 *   Vertical and horizontal social media icons
@@ -120,9 +120,8 @@ Stop begging users to start Sharing your content and giving them nothing in retu
 </ol>
 
 == Screenshots ==
- 
-1. Get more shares on your content and increase your site’s viral growth by installing the UP Viral Sharing Buttons plugin! Unlike your normal, everyday Sharing Buttons, UP’s responsive, cloud-based sharing buttons have been specifically designed to help boost viral growth without slowing down load time.  
-2. With UP Viral Sharing Buttons, as users start Sharing your content on their favorite Social Networks, you can track their sharing behavior and get viral growth data, and (coming soon) users can get points they can cash in for cool stuff in the UP Store. Users sign up for UP once by expanding the UP icon, then each time they’re Sharing your content across Social Networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network Social data on how your users are Sharing your content on their social networks.
+1. With UP Viral Sharing Buttons, as users start Sharing your content on their favorite Social Networks, you can track their sharing behavior and get viral growth data, and (coming soon) users can get points they can cash in for cool stuff in the UP Store. Users sign up for UP once by expanding the UP icon, then each time they’re Sharing your content across Social Networks like Facebook, Twitter, Google+, or LinkedIn, they get points – and you get powerful cross-network Social data on how your users are Sharing your content on their social networks.
+2. Get more shares on your content and increase your site’s viral growth by installing the UP Viral Sharing Buttons plugin! Unlike your normal, everyday Sharing Buttons, UP’s responsive, cloud-based sharing buttons have been specifically designed to help boost viral growth without slowing down load time.  
 3. You don’t just want people Sharing your content – you want them to start CONVERSATIONS around your content that their networks engage in and start Sharing. Stop begging users to start Sharing your content and giving them nothing in return. Use Viral Sharing Buttons by UP, track viral growth, run tests, measure improvement, and give people a reason to share!
 
 == Changelog ==
