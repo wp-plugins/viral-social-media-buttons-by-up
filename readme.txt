@@ -71,10 +71,9 @@ Stop begging users to share your site on social media and giving them nothing in
 *   WE PROMOTE YOUR SITE – we show your site to other users who share similar content with their networks.
 *   You get data and insights even if users just copy/paste links or re-share on their networks (they link their sharing history to UP)
 
-= 100% Free to use, Upgrade to Remove Branding and Switch On Mobile Sharing =
+= 100% Free to use, Upgrade to Switch On Mobile Sharing and Activate Rewards =
 
-*   Just install the UP widget free and sign up as a partner in 30 seconds or less
-*   Users see the UP icon and automatically know they get points for sharing
+*   Just install the UP plugin free and sign up as a partner in 30 seconds or less   
 *   Industry-leading partner support (we actually listen to your feedback)
 *   Incredibly-detailed documentation and tutorials
 
