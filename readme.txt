@@ -1,4 +1,4 @@
-﻿=== Viral Social Media Buttons ===
+﻿=== Viral Social Media Buttons by Upshare ===
 Contributors: upshare
 Tags: button, Facebook, google, linkedin, plugin, share, sharing, sidebar, social, social media, twitter, widget
 Requires at least: 3.0

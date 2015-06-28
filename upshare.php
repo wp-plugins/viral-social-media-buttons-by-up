@@ -3,7 +3,7 @@
  * @package UP Share
  */
 /*
-Plugin Name: Viral Social Media Buttons
+Plugin Name: Viral Social Media Buttons by Upshare
 Version: 1.0.8
 Author: Upshare
 Author URI: https://www.upshare.co
