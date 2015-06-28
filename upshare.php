@@ -3,9 +3,9 @@
  * @package UP Share
  */
 /*
-Plugin Name: Viral Social Media Buttons by UP
+Plugin Name: Viral Social Media Buttons by Upshare
 Version: 1.0.8
-Author: UP
+Author: Upshare
 Author URI: https://www.upshare.co/partners/sign_up
 Description: Simple, powerful social media buttons to boost sharing and make your site more viral.
 License: GPLv2 or later
@@ -78,8 +78,8 @@ class UP_ViralSharingSocial
 			{
 				echo '<div class="updated" id="upshare_notice" style="max-width:1150px;">'.
 						'<img src="'.plugins_url( 'viral-social-media-buttons-by-up/images/logo-notice.png' ).'"/>'.
-						'<p style="line-height:30px;"><strong>Visit your site and click the green UP icon in the upper right to customize your viral buttons.</strong>'.
-						' <br/>Choose options for size, shape and style, animations, change the networks shown, remove the UP branding, and more.'.
+						'<p style="line-height:30px;"><strong>Visit your site and click the green Upshare icon in the upper right to customize your viral buttons.</strong>'.
+						' <br/>Choose options for size, shape and style, animations, change the networks shown and more.'.
 						'<a href="" id="closeNotice" onclick="return removeNotice();" style="float:right">Ignore this notice</a>'.
 						'</p></div>';
 			}
@@ -155,7 +155,7 @@ class UP_ViralSharingSocial
 	}
 	public function setup_theme_admin_menus()
 	{
-		add_menu_page(__('UP','menu-test'), __('UP','menu-test'), 'manage_options', 'upshare-settings-page', array($this, 'upshare_settings') , 
+		add_menu_page(__('Upshare','menu-test'), __('Upshare','menu-test'), 'manage_options', 'upshare-settings-page', array($this, 'upshare_settings') , 
 						plugins_url( 'viral-social-media-buttons-by-up/images/menu-icon2.png' ) );
 		$json = $this->queryApi();
 		//$partner_id = get_option("partner_id");
