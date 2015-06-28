@@ -50,7 +50,7 @@
 			</div>
 			
 			<p align="center" style="padding-top:20px;clear:both">
-					<a href="https://www.upshare.co/partners/sign_up?origin=wp" target="_blank" class="learn-more">Learn More About <b>Upshare</b></a>
+					<a href="https://www.upshare.co" target="_blank" class="learn-more">Learn More About <b>Upshare</b></a>
 				</p>
 
 		</div>
