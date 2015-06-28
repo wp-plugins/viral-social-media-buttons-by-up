@@ -3,10 +3,10 @@
  * @package UP Share
  */
 /*
-Plugin Name: Viral Social Media Buttons by Upshare
+Plugin Name: Viral Social Media Buttons
 Version: 1.0.8
 Author: Upshare
-Author URI: https://www.upshare.co/partners/sign_up
+Author URI: https://www.upshare.co
 Description: Simple, powerful social media buttons to boost sharing and make your site more viral.
 License: GPLv2 or later
 */
