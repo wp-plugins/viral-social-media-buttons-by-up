@@ -225,7 +225,7 @@ Viral Buttons in 2 Easy Steps</h1>
       <h3>
         Quick and Easy to Install, Change On The Fly in Seconds
       </h3>
-      <p style="max-width:700px;">Getting set up is as easy as installing our plugin on <a href="https://wordpress.org/plugins/viral-sharing-buttons-by-up/" target="_Blank">Wordpress</a> or <a href="https://apps.shopify.com/viral-social-media-buttons-by-up" target="_Blank">Shopify</a>, or dropping one line of code onto any site (we’ll walk you through this).</p>
+      <p style="max-width:700px;">Getting set up is as easy as installing our plugin on <a href="https://wordpress.org/plugins/viral-social-media-buttons-by-up/" target="_Blank">Wordpress</a> or <a href="https://apps.shopify.com/viral-social-media-buttons-by-up" target="_Blank">Shopify</a>, or dropping one line of code onto any site (we’ll walk you through this).</p>
 
       <p>Then change the look, feel, position and behavior of your viral icons <strong>in seconds.</strong></p>
       
