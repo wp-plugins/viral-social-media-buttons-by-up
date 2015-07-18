@@ -235,7 +235,7 @@ Viral Buttons in 2 Easy Steps</h1>
   </div>
   
   
-    <div class="row widget">
+    <div class="row widget-buttons">
     <div class="col-md-9 col-md-offset-2">
       <img src="<?php echo $this->_plugin_url . '/images/partner-widget.png'?>" %>
 

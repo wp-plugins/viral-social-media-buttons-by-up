@@ -168,24 +168,24 @@ SECTION SPECIFIC
   color: #313131;
   padding-left: 30px;
 }
-.widget {
+.widget-buttons {
   margin-top: 60px;
   font-size: 18px;
   color: #202428;
 }
-.widget .right-col {
+.widget-buttons .right-col {
   width: 70%;
   float: right;
 }
-.widget .right-col h2 {
+.widget-buttons .right-col h2 {
   font-size: 30px;
   color: #313131;
 }
-.widget .right-col ul {
+.widget-buttons .right-col ul {
   margin-top: 25px;
   margin-bottom: 20px;
 }
-.widget .right-col ul li {
+.widget-buttons .right-col ul li {
   line-height: 40px;
 }
 .for-change-cms {
