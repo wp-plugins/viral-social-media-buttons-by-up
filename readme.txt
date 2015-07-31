@@ -3,7 +3,7 @@ Contributors: upshare
 Tags: button, Facebook, google, linkedin, plugin, share, sharing, sidebar, social, social media, twitter, widget
 Requires at least: 3.0
 Tested up to: 4.2.2
-Stable tag: 1.0.9
+Stable tag: 1.0.10
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -145,6 +145,8 @@ Stop begging users to share your site on social media and giving them nothing in
 * Removed green arrow Upshare Branding by default from all widgets.
 = 1.0.9 = 
 * Added support for multiple sites to be setup within one account.
+= 1.0.10 = 
+* Added new In Content buttons behaviour, buttons now switch to vertical when scrolling large content.  
 
 == Upgrade Notice ==
 There is no need to upgrade just yet. 

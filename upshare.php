@@ -4,7 +4,7 @@
  */
 /*
 Plugin Name: Viral Social Media Buttons by Upshare
-Version: 1.0.9
+Version: 1.0.10
 Author: Upshare
 Author URI: https://www.upshare.co
 Description: Simple, powerful social media buttons to boost sharing and make your site more viral.
@@ -221,7 +221,7 @@ class UP_ViralSharingSocial
 	}
 	public function filter_the_content($content)
 	{
-		return '<div id="upinpost-header" style="clear:both"></div>'.$content . '<div id="upinpost-footer" style="clear:both"></div>';
+		return '<div id="upinpost-header" style="clear:both"></div><div id="upinpost-body">'.$content . '</div><div id="upinpost-footer" style="clear:both"></div>';
 	}
 	protected function queryApi()
 	{
